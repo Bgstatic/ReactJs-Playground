@@ -1,0 +1,37 @@
+.container {
+
+    
+}
+
+input {
+
+    margin-top: 25px;
+    text-indent: 10px;
+    width: 98%;
+   
+}
+
+.List li {
+
+    padding: 5px;
+    background-color: lightcoral;
+
+}
+.List li span {
+
+    display: block;
+
+}
+
+.List li span.name {
+
+    float: left;
+    
+}
+
+.List li span.phone {
+
+    float: right;
+    
+
+}
